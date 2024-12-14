@@ -2,3 +2,4 @@ pandas
 textblob
 emoji
 nltk
+gensim
